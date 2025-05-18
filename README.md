@@ -32,7 +32,7 @@ Hiçbir şekilde üçüncü taraflarla paylaşılmaz veya satılmaz.
 
 Discord sunucusundan Bot kaldırıldığında, veriler belirli bir süre içinde silinir.
 
-Daha fazla bilgi için lütfen [Gizlilik Politikamıza](https://github.com/agnesdijitalyazilim/arenacore-privacy-policy)başvurun.
+Daha fazla bilgi için lütfen [Gizlilik Politikamıza](https://github.com/agnesdijitalyazilim/arenacore-privacy-policy) başvurun.
 
 Kabul Edilebilir Kullanım,
 Bot’un aşağıdaki şekillerde kullanılması yasaktır:
